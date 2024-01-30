@@ -5,4 +5,4 @@
 #####  Estou aprendendo as seguintes tecnologias: HTML, CSS, JavaScript e Bootstrap!
 #####  Como entrar em contato comigo? : [LinkedIn](https://www.linkedin.com/in/elvisdickmann/) 
  
- <div align="center"> <img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAC/programming-computer.gif"></div>   
+ <div > <img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAC/programming-computer.gif"></div>   
